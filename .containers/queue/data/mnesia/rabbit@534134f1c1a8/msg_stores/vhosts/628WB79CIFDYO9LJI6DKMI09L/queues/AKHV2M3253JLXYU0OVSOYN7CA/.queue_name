@@ -1,0 +1,2 @@
+VHOST: /
+QUEUE: todo-item-created-integration-event
